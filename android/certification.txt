@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the GU QR code reader 1.3
+---------------------------------------------------
+
+app_name - 						GU QR code reader
+app_alias - 					guqrcodereader
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Punjab
+app_author_country - 			India
+app_password - 					E9nC70vf5i2d
+app_versionName - 				versionName "1.3"
+app_versionCode - 				103
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Wednesday 31st of July 2024 10:09:34 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
